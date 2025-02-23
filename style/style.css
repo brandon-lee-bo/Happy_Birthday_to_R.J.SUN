@@ -126,7 +126,7 @@ body {
   position: absolute;
   width: 90px;
   top: -20px; /* 向上移动更多 */
-  left: 900%; /* 向右移动更多 */
+  left: 5000%; /* 向右移动更多 */
   /* transform: scale(0.1); */
 }
 

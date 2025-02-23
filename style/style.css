@@ -124,9 +124,9 @@ body {
 
 .six .hat {
   position: absolute;
-  width: 80px;
-  top: -80px; /* 向上移动更多 */
-  left: 60%; /* 向右移动更多 */
+  width: 90px;
+  top: -150px; /* 向上移动更多 */
+  left: 100%; /* 向右移动更多 */
   /* transform: scale(0.1); */
 }
 

@@ -15,6 +15,7 @@ body {
   visibility: hidden;
   position: relative;
   overflow: hidden;
+  left:100px;
 }
 
 .container div.six {

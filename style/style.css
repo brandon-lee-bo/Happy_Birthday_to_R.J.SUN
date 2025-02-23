@@ -118,7 +118,7 @@ body {
 
 .six img {
   display: inline-block;
-  max-width: 100%;
+  max-width: 150%;
   height: auto;
 }
 
@@ -126,7 +126,7 @@ body {
   position: absolute;
   width: 90px;
   top: -35px; /* 向上移动更多 */
-  left: 500px; /* 向右移动更多 */
+  left: 800px; /* 向右移动更多 */
   /* transform: scale(0.1); */
 }
 

@@ -114,7 +114,6 @@ body {
 
 .six {
   position: relative;
-  width:120%
 }
 
 .six img {
@@ -128,7 +127,6 @@ body {
   width: 90px;
   top: -40px;
   left: 800%;
-  transform: translateX(100px);
   /* transform: scale(0.1); */
 }
 

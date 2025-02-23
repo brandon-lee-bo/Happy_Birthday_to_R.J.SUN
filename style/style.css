@@ -15,7 +15,6 @@ body {
   visibility: hidden;
   position: relative;
   overflow: hidden;
-  left:100px;
 }
 
 .container div.six {
@@ -115,6 +114,7 @@ body {
 
 .six {
   position: relative;
+  width:120%
 }
 
 .six img {
